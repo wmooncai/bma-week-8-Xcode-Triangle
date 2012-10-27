@@ -28,6 +28,7 @@
 		3E2638D1163B542F002A22CE /* bma-week-8-Xcode-Triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "bma-week-8-Xcode-Triangle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E2638D5163B542F002A22CE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		3E2638D7163B542F002A22CE /* bma_week_8_Xcode_Triangle.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = bma_week_8_Xcode_Triangle.1; sourceTree = "<group>"; };
+		3E2638DE163B5488002A22CE /* bma-week-8-Xcode-Triangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bma-week-8-Xcode-Triangle.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				3E2638D5163B542F002A22CE /* main.c */,
 				3E2638D7163B542F002A22CE /* bma_week_8_Xcode_Triangle.1 */,
+				3E2638DE163B5488002A22CE /* bma-week-8-Xcode-Triangle.h */,
 			);
 			path = "bma-week-8-Xcode-Triangle";
 			sourceTree = "<group>";
